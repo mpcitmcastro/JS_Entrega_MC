@@ -1,0 +1,4 @@
+- variables
+- estructura de control (switch / if / if anidado)
+- bucle (while/  for / do while)
+- funcion
